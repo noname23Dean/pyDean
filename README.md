@@ -1,2 +1,2 @@
-# python1
+# python study1
 python test
